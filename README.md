@@ -1,2 +1,3 @@
 # Project_Titanic_EDA
-Simple *Exploratory Data Analysis* of Titanic datset
+
+The Simple Process of *Exploratory Data Analysis* of Titanic dataset
